@@ -2,6 +2,8 @@
 
 An end-to-end exploratory data analysis and business intelligence project using 100,000+ real orders from the Olist Brazilian e-commerce dataset (2016–2018). This project investigates revenue drivers, geographic performance, product category trends, and the operational impact of delivery latency on customer satisfaction.
 
+> 📊 **View Full Code & Charts:** Open [`Olist_Ecommerce_Analysis.ipynb`](Olist_Ecommerce_Analysis.ipynb) in this repository to view the complete Python analysis and interactive visualizations.
+
 ---
 
 ## 🚀 Key Business Findings
@@ -16,22 +18,6 @@ An end-to-end exploratory data analysis and business intelligence project using 
 ### 3. Impact of Delivery Latency on Customer Satisfaction
 * **On-Time Deliveries:** Orders delivered on or before the estimated date achieve a solid average rating of **4.15 / 5 stars**.
 * **Late Deliveries:** When shipments run late, customer satisfaction crashes down to an average of **2.26 / 5 stars**—nearly a 2-star drop. Punctuality is the single largest controllable driver of customer retention.
-
----
-
-## 📊 Project Visualizations
-
-* **Monthly Revenue Trends:**
-  ![Monthly Revenue](monthly_revenue.png)
-
-* **Top States by Revenue:**
-  ![Top States](top_states.png)
-
-* **Top Product Categories:**
-  ![Top Categories](top_categories.png)
-
-* **Delivery Latency vs Customer Review Scores:**
-  ![Delivery Impact](delivery_impact.png)
 
 ---
 
